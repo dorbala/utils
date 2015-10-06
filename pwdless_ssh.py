@@ -11,7 +11,7 @@ import socket
 # IMP: Assumes pexpect is installed!
 # host1.zip, host2.zip, etc. contain the respective rsa/dsa keys
 # Extract host1.zip, host2.zip, .. in host1's directory before running the script
-# Run the script at the source
+# Run the script on host1
 
 # USAGE: ./pwdless_ssh.py <user_name> <src_name> <dest_name>
 
